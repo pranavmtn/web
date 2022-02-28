@@ -1,2 +1,2 @@
 # web
-my local website
+simple HTML pages
